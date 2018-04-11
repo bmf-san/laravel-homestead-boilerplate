@@ -88,3 +88,9 @@ And, edit a hosts file.
 
 Then you will be able to access the site via your web browser.
 `http://laravel`
+
+## Author
+bmf - A Web Developer in Japan.
+
+- [@bmf-san](https://twitter.com/bmf_san)
+- [bmf-tech](http://bmf-tech.com/)
